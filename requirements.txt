@@ -1,0 +1,5 @@
+bs4
+config
+langchain_community
+ollama
+redis
